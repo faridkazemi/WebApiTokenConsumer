@@ -1,0 +1,12 @@
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\bin\Debug\WebApiConsumer_TokenBased.exe.config
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\bin\Debug\WebApiConsumer_TokenBased.exe
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\bin\Debug\WebApiConsumer_TokenBased.pdb
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\bin\Debug\Newtonsoft.Json.dll
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\bin\Debug\Newtonsoft.Json.xml
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\obj\Debug\WebApiConsumer_TokenBased.csprojResolveAssemblyReference.cache
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\obj\Debug\WebApiConsumer_TokenBased.Properties.Resources.resources
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\obj\Debug\WebApiConsumer_TokenBased.csproj.GenerateResource.Cache
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\obj\Debug\WebApiConsumer_TokenBased.csproj.CoreCompileInputs.cache
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\obj\Debug\WebApiConsumer_TokenBased.exe
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\obj\Debug\WebApiConsumer_TokenBased.pdb
+C:\Users\fkazemi\Source\Repos\ApiConsumer_TokenBased\WebApiConsumer_TokenBased\obj\Debug\WebApiConsumer_TokenBased.MyToken.resources

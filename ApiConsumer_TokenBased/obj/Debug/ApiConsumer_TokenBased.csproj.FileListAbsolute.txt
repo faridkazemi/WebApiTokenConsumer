@@ -1,0 +1,7 @@
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\ApiConsumer_TokenBased\bin\Debug\ApiConsumer_TokenBased.exe.config
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\ApiConsumer_TokenBased\bin\Debug\ApiConsumer_TokenBased.exe
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\ApiConsumer_TokenBased\bin\Debug\ApiConsumer_TokenBased.pdb
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\ApiConsumer_TokenBased\obj\Debug\ApiConsumer_TokenBased.csprojResolveAssemblyReference.cache
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\ApiConsumer_TokenBased\obj\Debug\ApiConsumer_TokenBased.csproj.CoreCompileInputs.cache
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\ApiConsumer_TokenBased\obj\Debug\ApiConsumer_TokenBased.exe
+c:\users\fkazemi\Source\Repos\ApiConsumer_TokenBased\ApiConsumer_TokenBased\obj\Debug\ApiConsumer_TokenBased.pdb
